@@ -6,10 +6,7 @@ Featured techniques:
 -Used Absolute/Relative positioning to overlay text and images onto images  
 -Extensive use of Flexbox to make the site more responsive  
 -Creative use of anchor tags to make icons and images double as links  
--New use of anchor tags (for me) to have icons prompt users to send emails or make a phone call or text message   
-  
-    
-    Here is a link for the deployed application: https://bborumoore.github.io/Portfolio/
-      
-    And a screenshot so that you know what you're getting into!
+-New use of anchor tags (for me) to have icons prompt users to send emails or make a phone call or text message  
+  Here is a link for the deployed application: https://bborumoore.github.io/Portfolio/  
+  And a screenshot so that you know what you're getting into!
     
