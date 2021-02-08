@@ -9,5 +9,6 @@ Featured techniques:
 -New use of anchor tags (for me) to have icons prompt users to send emails or make a phone call or text message   
   
   Here is a link for the deployed application: https://bborumoore.github.io/Portfolio/  
-  And a screenshot so that you know what you're getting into!
+  And a screenshot so that you know what you're getting into!  
+  ![plot](assets/images/02ScreenShot.png)
     
