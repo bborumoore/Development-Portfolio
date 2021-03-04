@@ -1,4 +1,7 @@
 # Development-Portfolio
+Edit 3/4/21: Welcome to my portfolio page!  I've learned a lot these past few weeks, and I'll be updating this portfolio soon.  I'll be implementing javascript to add functionality, and displaying a few new projects in the 'Work' section.  On top of that, I'm planning and entire page overhaul using the Bootstrap, mobile-first CSS framework!
+I hope you'll enjoy the changes!
+
 A Portfolio of my personal web development projects
 This site features a couple of techniques that I recently learned to use.  The entire site is coded using only HTML and CSS.
 
