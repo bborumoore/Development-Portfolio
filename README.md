@@ -2,6 +2,11 @@
 Edit 3/4/21: Welcome to my portfolio page!  I've learned a lot these past few weeks, and I'll be updating this portfolio soon.  I'll be implementing javascript to add functionality, and displaying a few new projects in the 'Work' section.  On top of that, I'm planning and entire page overhaul using the Bootstrap, mobile-first CSS framework!
 I hope you'll enjoy the changes!
 
+In the meantime, feel free to check out some of the other projects' live pages:  
+Daily Planner: https://bborumoore.github.io/daily-planner/  
+Weather Dashboard: https://bborumoore.github.io/weather-dashboard/ (to be deployed in it's full state by 3/6/21)  
+*COMING SOON* A Mars Daily Widget!  - I'm working collaboratively with a team that will bring you daily insights *from Mars*. I hope you're as excited as I am!  
+
 A Portfolio of my personal web development projects
 This site features a couple of techniques that I recently learned to use.  The entire site is coded using only HTML and CSS.
 
